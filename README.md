@@ -20,6 +20,6 @@
 ---
 
 ## 💡 About Me
-I'm transitioning from tester to data analytics. I'm passionate about data storytelling, dashboarding, and helping teams make data-driven decisions.
+I'm transitioning from tester to data analyst. I'm passionate about data storytelling, dashboarding, and helping teams make data-driven decisions.
 
 
