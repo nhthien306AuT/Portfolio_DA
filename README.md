@@ -22,7 +22,7 @@
 - Description: Customer and sales analysis for a Japanese restaurant using Excel preprocessing and Looker Studio dashboards to reveal key business insights.
 
 ## 🤖 Data Science (DS) Projects
-### 1. SalifortMotors
+### 1. Salifort Motors
 - Repo: [🔗 View Project](https://github.com/nhthien306AuT/SalifortMotors)
 - Description: Employee attrition analysis and prediction using a full Data Science workflow, including EDA, feature engineering, and machine learning to identify key drivers of turnover at Salifort Motors.
 ---
