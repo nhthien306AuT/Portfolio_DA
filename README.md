@@ -17,7 +17,7 @@
 ### 3. Bellabeat Health
 - Repo: [🔗 View Project](https://github.com/nhthien306AuT/BellaBeat-Analysis)
 - Description: Analyzed and visualized smart device health data (activity, sleep, calories, heart rate) to uncover user behavior patterns.
-### 4. Japan_Restaurant
+### 4. Japan Restaurant
 - Repo: [🔗 View Project](https://github.com/nhthien306AuT/Japan_Restaurant)
 - Description: Customer and sales analysis for a Japanese restaurant using Excel preprocessing and Looker Studio dashboards to reveal key business insights.
 
