@@ -10,7 +10,7 @@
 ## 📊 Data Analysis (DA) Projects
 ### 1. Chemical Exposure
 - Repo: [🔗 View Project](https://github.com/nhthien306AuT/castnet-nadp-analysis)
-- Description: Built ETL pipeline for 25-year multi-source dataset(reducing manual work by 70%). Automated geospatial maps, missing-pattern detection, and state-level trend dashboards using Python and Plotly..
+- Description: Built ETL pipeline for 25-year multi-source dataset(reducing manual work by 70%). Automated geospatial maps, missing-pattern detection, and state-level trend dashboards using Python and Plotly. Detected cross-network missing-pattern correlations between 2 monitoring systems, revealing temporal anomaly clusters.
 ### 2. Cyclistic Bike Share
 - Repo: [🔗 View Project](https://github.com/nhthien306AuT/cyclistic_analysis)
 - Description: Analyze the user trips over the past year: ride usage, user-behavior, density & distribution.
