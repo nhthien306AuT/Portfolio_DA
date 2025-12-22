@@ -27,7 +27,7 @@
 - Description: Employee attrition analysis and prediction using a full Data Science workflow, including EDA, feature engineering, and machine learning to identify key drivers of turnover at Salifort Motors. Built an end-to-end automated ML pipeline (automated 85%). Identified the key churn drivers, high-risk employee groups. Improved model accuracy from 0.8 (Logistic) to 0.98 using XGBoost and deployed the final model with FastAPI.
 ### 2. Medical Cost Personal
 - Repo: [🔗 View Project](https://github.com/nhthien306AuT/Medical_Cost_Personal)
-- Description: Smoking status has a substantial impact on medical costs, with smokers incurring approximately 300–400% higher healthcare expenses compared to non-smokers. Medical costs show a clear positive linear relationship with age. An increase of 1 unit in BMI is associated with an average 2–3% rise in medical expenses, gender and region explain less than 5% of the variation in medical costs.
+- Description: Smoking status has a substantial impact on medical costs, with smokers incurring approximately 300–400% higher healthcare expenses compared to non-smokers. Medical costs show a clear positive linear relationship with age. An increase of 1 unit in BMI is associated with an average 2–3% rise in medical expenses, gender and region explain less than 5% of the variation in medical costs. Final result of linear model is 0.87 (R squared)
 ---
 
 ## 💡 About Me
